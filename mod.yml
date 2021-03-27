@@ -1,0 +1,16 @@
+title: Quadratum Command Menu
+originalAuthor: Vladabdf
+description: Explore KH2's worlds with KH3's stylish Quadratum Command Menu!
+assets:
+  - name: field2d/jp/zz0command.2dd
+    multi:
+      - name: menu/jp/title.2ld
+      - name: menu/uk/title.2ld
+      - name: menu/it/title.2ld
+      - name: menu/sp/title.2ld
+      - name: menu/gr/title.2ld
+      - name: menu/fr/title.2ld
+      - name: menu/fm/title.2ld
+    method: copy
+    source:
+      - name: field2d/jp/zz0command.2dd
